@@ -58,4 +58,14 @@ While in case of big data as the massive amount of data is segregated between va
 
 
 6.QN 6.Main reasons behind hadoop becoming the solution for Data explosion.
-Hadoop is an open source, Java Hadoop is an open source, Java Hadoop is an open source, Java Hadoop is an open source,in a distributed computing environment 
+
+      
+·         Hadoop is an open source ,java-based programming framework that supports the processing of large data sets in a distributed computing environment.
+
+·         Hadoop provides: A reliable,Scalable platform for storage and analysis.
+
+·         It is based on Google File Syatem or GFS.
+
+·         Hadoop runs a number of applications on distributed systems with thousands of nodes involving petabytes of data.
+
+·         It has a distributed file system,called the Hadoop Distributed File System or HDFS,which enable fast data transfer among the nodes.
